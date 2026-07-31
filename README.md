@@ -12,13 +12,13 @@ An interactive Business Intelligence dashboard built in Microsoft Excel.
 
 ## Data Model
 
-![Data Model](Images/DataModel.png)
+![Data Model](Images/Screenshot_Power pivot.png)
 
 ---
 
-## Sales Analysis
+## Measures
 
-![Sales Analysis](Images/SalesAnalysis.png)
+![Measures](Images/Screenshot_Measures.png)
 
 # 🍽️ Restaurant Sales Dashboard
 
