@@ -12,7 +12,7 @@ An interactive Business Intelligence dashboard built in Microsoft Excel.
 
 ## Data Model
 
-![Data Model](Images/Screenshot_Power pivot.png)
+![Data Model](Images/Screenshot_Power_pivot.png).
 
 ---
 
