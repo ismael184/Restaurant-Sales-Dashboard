@@ -1,5 +1,27 @@
 # 🍽️ Restaurant Sales Dashboard
 
+An interactive Business Intelligence dashboard built in Microsoft Excel.
+
+---
+
+## Dashboard Preview
+
+![Dashboard](Images/Dashboard.png)
+
+---
+
+## Data Model
+
+![Data Model](Images/DataModel.png)
+
+---
+
+## Sales Analysis
+
+![Sales Analysis](Images/SalesAnalysis.png)
+
+# 🍽️ Restaurant Sales Dashboard
+
 > An interactive Excel-based Business Intelligence dashboard for restaurant sales analysis, built using Power Query, Power Pivot, DAX, CUBE Functions, and VBA.
 
 ![Excel](https://img.shields.io/badge/Excel-365-217346?logo=microsoftexcel&logoColor=white)
