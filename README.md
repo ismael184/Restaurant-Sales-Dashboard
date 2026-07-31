@@ -43,6 +43,24 @@ The solution is designed to help restaurant owners and managers monitor sales pe
 
 ---
 
+## Business Problem
+
+Restaurant managers often struggle to transform raw sales data into meaningful business insights.
+
+Manual reporting is time-consuming, error-prone, and makes it difficult to monitor performance in real time.
+
+This project solves that problem by providing an automated and interactive Excel dashboard that enables decision-makers to analyze sales, profitability, customer behavior, and employee performance efficiently.
+
+---
+
+## Solution
+
+The solution combines Power Query, Power Pivot, DAX, CUBE Functions, and VBA to automate the complete reporting process.
+
+Users can refresh data, filter results dynamically, and monitor KPIs through a single interactive dashboard without manual calculations.
+
+---
+
 # 🚀 Features
 
 - Automated data loading with Power Query
@@ -226,6 +244,29 @@ Interactive Dashboard
 - Build an interactive business dashboard
 - Automate reporting using VBA
 - Showcase practical Business Intelligence skills
+
+---
+
+## Challenges
+
+- Cleaning inconsistent sales data.
+- Building a scalable Star Schema.
+- Creating dynamic DAX measures.
+- Optimizing Excel performance.
+- Automating repetitive tasks with VBA.
+
+---
+
+## Lessons Learned
+
+During this project I improved my skills in:
+
+- ETL Processes
+- Data Modeling
+- Dashboard Design
+- Business Intelligence
+- VBA Automation
+- Performance Optimization
 
 ---
 
